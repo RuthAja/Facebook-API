@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>fesbuk</label>
+		<id>102</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>fesbuk.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>fesbuk.jcp</path>
+		</project>
+	</projects>
+</workspace>
